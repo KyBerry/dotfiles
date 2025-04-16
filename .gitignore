@@ -1,0 +1,4 @@
+# Neovim
+nvim/plugin/
+nvim/lazy-lock.json
+nvim/.netrwhist
